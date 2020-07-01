@@ -1,2 +1,2 @@
 # werewolf
-WereWolf Game Testing.
+Proje askıdadır.
